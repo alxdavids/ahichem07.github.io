@@ -51,7 +51,7 @@ address:
   - line: Lisboa, Portugal
 
 # Credits content
-credits: 'Website made by Alex Davidson <a href=https://alxdavids.xyz>@alxdavids'</a>
+credits: 'Website made by Alex Davidson <a href=https://alxdavids.xyz>@alxdavids</a>'
 
 # Build settings
 markdown: kramdown
