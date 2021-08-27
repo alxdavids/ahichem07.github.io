@@ -1,5 +1,5 @@
 # Site settings
-title: Alexandra H-D
+title: Dr Alexandra H-D
 email: alexandra.hicken07@gmail.com
 url: http://ah-d.co
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Alexandra Hicken-Davidson
+  copyright: Dr Alexandra Hicken-Davidson
   location: Lisboa
   social: ahichem07
   credits: Credits
@@ -51,7 +51,7 @@ address:
   - line: Lisboa, Portugal
 
 # Credits content
-credits: 'Made by Alex Davidson'
+credits: 'Website made by Alex Davidson <a href=https://alxdavids.xyz>@alxdavids'</a>
 
 # Build settings
 markdown: kramdown
