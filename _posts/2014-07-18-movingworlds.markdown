@@ -4,7 +4,7 @@ modal-id: 1
 date: 2014-07-18
 img: MovingWorlds.png
 alt: image-alt
-project-date: March 2020 - May 2021
+project-date: May 2021
 client: Start-up
 category: Operations
 description: Multiple contracted projects under the title of "Operations and Knowledge Manager", we achieved the following things 
