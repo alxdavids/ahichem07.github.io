@@ -7,8 +7,7 @@ alt: image-alt
 project-date: March 2020 - May 2021
 client: Start-up
 category: Operations
-description: 
-Multiple contracted projects under the title of "Operations and Knowledge Manager", we achieved the following things -- Analysing Business to Customer (B2C) sales data and presenting dashboards, providing insights
+description: Multiple contracted projects under the title of "Operations and Knowledge Manager", we achieved the following things -- Analysing Business to Customer (B2C) sales data and presenting dashboards, providing insights
 into the sales strategy cycle on cycle. This resulted in a 218% increase in applications for the
 MovingWorlds Institute from 2019 to 2020. -- Working closely with the Corporate Programmes team to harvest data and prepare external facing dashboards, in order to track Key Performance Indicators (KPI’s) and programme impact. This
 resulted in two high-profile publicly-listed corporate partners renewing existing contracts in 2021. -- Designing and implementing an internal Objective and Key Result (OKR) setting and monitoring
