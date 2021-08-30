@@ -5,8 +5,8 @@ date: 2014-07-18
 img: MovingWorlds.png
 alt: image-alt
 project-date: May 2021
-client: Start-up
-category: Operations
+client: Start Bootstrap
+category: Web Development
 description: Multiple contracted projects under the title of "Operations and Knowledge Manager", we achieved the following things 
 1) Analysing Business to Customer (B2C) sales data and presenting dashboards, providing insights
 into the sales strategy cycle on cycle. This resulted in a 218% increase in applications for the
